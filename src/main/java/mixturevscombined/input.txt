@@ -1,0 +1,20 @@
+[
+   {
+      "impressions":[
+         100000,
+         200000
+      ],
+      "conversions":[
+         9000,
+         12000
+      ]
+   },
+   {
+      "impressions":[
+         300000
+      ],
+      "conversions":[
+         20000
+      ]
+   }
+]
